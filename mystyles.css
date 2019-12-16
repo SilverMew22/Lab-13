@@ -1,0 +1,14 @@
+*{/*change entire page*/
+  font-family:sans-serif;/*change font family to sans-sefir*/
+}
+h1{
+  color:red;
+}
+.active{
+  border-width: 5px;
+  border-color: black;
+  border-style: solid;
+}
+p{
+  margin: 20px;
+}
